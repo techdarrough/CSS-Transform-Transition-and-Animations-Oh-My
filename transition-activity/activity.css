@@ -1,1 +1,11 @@
+body > div > button {
+    color:black;
+    background-color: ghostwhite;
+    
+}
 
+body > div > button:hover {
+    background-color:cornflowerblue;
+    color: white;
+    
+}
